@@ -1,5 +1,13 @@
 
 /* Your CSS Code here. */
+
+  @import url('https://fonts.googleapis.com/css2?family=Caladea&family=Geologica:wght@600&family=Inter:wght@100;200;300;400;600;700;800;900&family=Noto+Sans+KR:wght@300&family=Open+Sans:wght@300&family=Poppins:wght@600&family=Roboto+Condensed&display=swap');
+body{
+	font-family:inter, sans-serif;
+}
+.heading{
+	color:rgb(132,143,153);
+}
 #top-space{
 	width:100%;
 	display:flex;
